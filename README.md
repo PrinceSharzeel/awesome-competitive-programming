@@ -181,7 +181,6 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Simple problems for newcomers |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 | ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
-| ★★☆ | [InterviewBit](https://www.interviewbit.com/courses/programming) |Categorized problems Level wise based on Algorithm and implementations.Best for time bound practising. |
 
 ### Contest Calendars
 > Calendars for impending programming contests.  
@@ -190,7 +189,6 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
-| ★★★ | [StopStalk](http://stopstalk.com/) | Maintain All your online judge accounts and performance at the same place|
 | ★★☆ | [clist.by](https://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
 | ★★☆ | [Coder's Calendar](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
