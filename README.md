@@ -181,6 +181,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★☆ | [Juniors Training Sheet](https://goo.gl/unDETI), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | Simple problems for newcomers |
 | ★★☆ | [Lucky貓的 UVA（ACM）園地 (Chinese)](http://luckycat.kshs.kh.edu.tw/) | UVa |
 | ★★☆ | [Topcoder problem archive](https://community.topcoder.com/tc?module=ProblemArchive) | List of problems with categories and complexity levels |
+| ★★☆ | [InterviewBit](https://www.interviewbit.com/courses/programming) |Categorized problems Level wise based on Algorithm and implementations.Best for time bound practising. |
 
 ### Contest Calendars
 > Calendars for impending programming contests.  
